@@ -1,0 +1,294 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "DataStructure.Compare.Main",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "DataStructure.LinkedListExam.Main",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Examples.DataStructure.ArrayList.Main",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "DataStructure.ArrayListExam.Main",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayExam2",
+            "request": "launch",
+            "mainClass": "DataStructure.arrayExam2",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayExam1",
+            "request": "launch",
+            "mainClass": "DataStructure.ArrayExam1",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch enumExam",
+            "request": "launch",
+            "mainClass": "externalComponent.enumExam",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch variableArgument",
+            "request": "launch",
+            "mainClass": "externalComponent.variableArgument",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch forEach2",
+            "request": "launch",
+            "mainClass": "externalComponent.forEach2",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch forEach",
+            "request": "launch",
+            "mainClass": "externalComponent.forEach",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ServerTest",
+            "request": "launch",
+            "mainClass": "Network.Exam5.ServerTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClientTest",
+            "request": "launch",
+            "mainClass": "Network.Exam5.ClientTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxingTest",
+            "request": "launch",
+            "mainClass": "Boxing.BoxingTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayList",
+            "request": "launch",
+            "mainClass": "DataStructure.ArrayList",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashTest",
+            "request": "launch",
+            "mainClass": "DataStructure.HashTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarTest",
+            "request": "launch",
+            "mainClass": "DataStructure.VarTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScoreTest",
+            "request": "launch",
+            "mainClass": "Exam1.ScoreTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericTest",
+            "request": "launch",
+            "mainClass": "Generic.GenericTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProdTest",
+            "request": "launch",
+            "mainClass": "Generic.ProdTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListExam",
+            "request": "launch",
+            "mainClass": "IteratorExam.ArrayListExam",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetExam",
+            "request": "launch",
+            "mainClass": "IteratorExam.HashSetExam",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam1",
+            "request": "launch",
+            "mainClass": "ListExam.Exam1",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProdTest(1)",
+            "request": "launch",
+            "mainClass": "ListExam.ProdTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesTest",
+            "request": "launch",
+            "mainClass": "ListExam.PropertiesTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetTest",
+            "request": "launch",
+            "mainClass": "ListExam.TreeSetTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetTest2",
+            "request": "launch",
+            "mainClass": "ListExam.TreeSetTest2",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarExam",
+            "request": "launch",
+            "mainClass": "ListExam.VarExam",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapExam",
+            "request": "launch",
+            "mainClass": "MapExam.HashMapExam",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashtableExam",
+            "request": "launch",
+            "mainClass": "MapExam.HashtableExam",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch SerClient",
+            "request": "launch",
+            "mainClass": "Network.Exam2.SerClient",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch SerServer",
+            "request": "launch",
+            "mainClass": "Network.Exam2.SerServer",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleClient",
+            "request": "launch",
+            "mainClass": "Network.Exam3.SimpleClient",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleServerTest",
+            "request": "launch",
+            "mainClass": "Network.Exam3.SimpleServerTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleClient(1)",
+            "request": "launch",
+            "mainClass": "Network.Exam4.SimpleClient",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleServer",
+            "request": "launch",
+            "mainClass": "Network.Exam4.SimpleServer",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleClient(2)",
+            "request": "launch",
+            "mainClass": "Network.SimpleClient",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleServer(1)",
+            "request": "launch",
+            "mainClass": "Network.SimpleServer",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackTest",
+            "request": "launch",
+            "mainClass": "StackExam.StackTest",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam1(1)",
+            "request": "launch",
+            "mainClass": "etc.Exam1",
+            "projectName": "JavaVsCode_69c47e47"
+        },
+        {
+            "type": "java",
+            "name": "Launch mainApp",
+            "request": "launch",
+            "mainClass": "etc.mainApp",
+            "projectName": "JavaVsCode_69c47e47"
+        }
+    ]
+}
